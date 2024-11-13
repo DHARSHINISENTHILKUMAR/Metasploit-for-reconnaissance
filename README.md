@@ -25,6 +25,7 @@ Open terminal and try execute some kali linux commands
 
 ## OUTPUT:
 
+![image](https://github.com/user-attachments/assets/5945f2fe-0388-4d48-9638-0ac1abb7f199)
 
 
 
@@ -32,6 +33,7 @@ Open terminal and try execute some kali linux commands
 
 
 
+![image](https://github.com/user-attachments/assets/e9a173fd-c258-444d-b8db-428ea25bd7cd)
 
 
 
